@@ -31,7 +31,7 @@ This script simplifies the process of activating Driver Booster by automating th
 - **Administrative Privileges**: If the script does not prompt for administrative rights, ensure you are running it with the required permissions by right-clicking and selecting Run as Administrator.
 - **File Paths**: Verify that the encoded.txt and encoded_ascii_art.txt files are correctly placed in the src directory.
 - **Warning**: The default installation path for the software is:
-``C:\Program Files (x86)\IObit\Driver Booster\11.6.0``
+``C:\Program Files (x86)\IObit\Driver Booster\12.0.0``
 If the software is not installed in this directory, please ensure the path is correct before continuing.
 
 ## 📜 License
