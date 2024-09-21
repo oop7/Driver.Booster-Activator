@@ -4,7 +4,7 @@ setlocal
 :: Set script directories
 set "SCRIPT_DIR=%~dp0"
 set "SRC_DIR=%SCRIPT_DIR%src\"
-set "DEFAULT_DEST_DIR=C:\Program Files (x86)\IObit\Driver Booster\11.6.0"
+set "DEFAULT_DEST_DIR=C:\Program Files (x86)\IObit\Driver Booster\12.0.0"
 
 :: Set the paths for the encoded files
 set "ENCODED_FILE=%SRC_DIR%encoded.txt"
